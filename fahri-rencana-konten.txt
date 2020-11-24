@@ -1,6 +1,6 @@
 RENCANA KONTEN FAHRI
 
-- java script
-- php framework
-- interview
-- vlogs
+- Java Script
+- PHP Framework
+- Interview
+- Vlogs
