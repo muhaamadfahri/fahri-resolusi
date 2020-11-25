@@ -3,7 +3,10 @@ RENCANA KONTEN FAHRI
 - Java Script
   * ES6
   * Framework Javascript
+   ^VIew
  - Struktur Data Dasar
 - PHP Framework
+   ^Laravel
 - Interview
 - Vlogs
+- Phyton
